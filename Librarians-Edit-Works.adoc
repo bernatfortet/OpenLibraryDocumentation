@@ -164,6 +164,11 @@ image:images/Librarians-EditWorks-Links.png["Screenshot showing the header Links
 
 The link need to be relevant to the work, please report irrelevant links or spam through the link:https://openlibrary.org/contact[contact form].
 
+=== A Work's main/selected edition
+
+When a work is loaded (e.g. search results, or work page), we're showing an edition. Currently the system tries to pick the most available edition that is in the user's language.
+If you notice a work is showing an unexpected edition it might be because other editions don't have the correct language. Try to add language information to other editions to improve the edition selection.
+
 === Please, leave a short note about what you changed
 
 This is not necessary, but helps to find the last proper edit and to understand why the item was edited.
